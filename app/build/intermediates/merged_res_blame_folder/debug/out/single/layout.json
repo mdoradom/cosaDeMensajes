@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "D:\\usuarios\\mario\\Documents\\GitHub\\m06-acces-a-dades\\UF3\\FirebaseTemplate\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_post_details.xml",
+        "source": "D:\\usuarios\\mario\\Documents\\GitHub\\m06-acces-a-dades\\UF3\\FirebaseTemplate\\app\\src\\main\\res\\layout\\fragment_post_details.xml"
+    },
+    {
+        "merged": "D:\\usuarios\\mario\\Documents\\GitHub\\m06-acces-a-dades\\UF3\\FirebaseTemplate\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_new_post.xml",
+        "source": "D:\\usuarios\\mario\\Documents\\GitHub\\m06-acces-a-dades\\UF3\\FirebaseTemplate\\app\\src\\main\\res\\layout\\fragment_new_post.xml"
+    },
+    {
+        "merged": "D:\\usuarios\\mario\\Documents\\GitHub\\m06-acces-a-dades\\UF3\\FirebaseTemplate\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_sign_in.xml",
+        "source": "D:\\usuarios\\mario\\Documents\\GitHub\\m06-acces-a-dades\\UF3\\FirebaseTemplate\\app\\src\\main\\res\\layout\\fragment_sign_in.xml"
+    },
+    {
+        "merged": "D:\\usuarios\\mario\\Documents\\GitHub\\m06-acces-a-dades\\UF3\\FirebaseTemplate\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_profile.xml",
+        "source": "D:\\usuarios\\mario\\Documents\\GitHub\\m06-acces-a-dades\\UF3\\FirebaseTemplate\\app\\src\\main\\res\\layout\\fragment_profile.xml"
+    },
+    {
+        "merged": "D:\\usuarios\\mario\\Documents\\GitHub\\m06-acces-a-dades\\UF3\\FirebaseTemplate\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main.xml",
+        "source": "D:\\usuarios\\mario\\Documents\\GitHub\\m06-acces-a-dades\\UF3\\FirebaseTemplate\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\usuarios\\mario\\Documents\\GitHub\\m06-acces-a-dades\\UF3\\FirebaseTemplate\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\viewholder_post.xml",
+        "source": "D:\\usuarios\\mario\\Documents\\GitHub\\m06-acces-a-dades\\UF3\\FirebaseTemplate\\app\\src\\main\\res\\layout\\viewholder_post.xml"
+    },
+    {
+        "merged": "D:\\usuarios\\mario\\Documents\\GitHub\\m06-acces-a-dades\\UF3\\FirebaseTemplate\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\nav_header_main.xml",
+        "source": "D:\\usuarios\\mario\\Documents\\GitHub\\m06-acces-a-dades\\UF3\\FirebaseTemplate\\app\\src\\main\\res\\layout\\nav_header_main.xml"
+    },
+    {
+        "merged": "D:\\usuarios\\mario\\Documents\\GitHub\\m06-acces-a-dades\\UF3\\FirebaseTemplate\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_sign_out.xml",
+        "source": "D:\\usuarios\\mario\\Documents\\GitHub\\m06-acces-a-dades\\UF3\\FirebaseTemplate\\app\\src\\main\\res\\layout\\fragment_sign_out.xml"
+    },
+    {
+        "merged": "D:\\usuarios\\mario\\Documents\\GitHub\\m06-acces-a-dades\\UF3\\FirebaseTemplate\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_register.xml",
+        "source": "D:\\usuarios\\mario\\Documents\\GitHub\\m06-acces-a-dades\\UF3\\FirebaseTemplate\\app\\src\\main\\res\\layout\\fragment_register.xml"
+    },
+    {
+        "merged": "D:\\usuarios\\mario\\Documents\\GitHub\\m06-acces-a-dades\\UF3\\FirebaseTemplate\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_posts.xml",
+        "source": "D:\\usuarios\\mario\\Documents\\GitHub\\m06-acces-a-dades\\UF3\\FirebaseTemplate\\app\\src\\main\\res\\layout\\fragment_posts.xml"
+    }
+]

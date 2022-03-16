@@ -1,0 +1,76 @@
+{
+  "project_info": {
+    "project_number": "76115072993",
+    "project_id": "freskito-51325",
+    "storage_bucket": "freskito-51325.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:76115072993:android:5ea7ef0331dc6de1bee4a0",
+        "android_client_info": {
+          "package_name": "com.example.firebasetemplate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "76115072993-3da6escb3rq2mukhk63srsj02dk5aos0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.firebasetemplate",
+            "certificate_hash": "d980df04029ff4c32b70c34d0ccd447e49ac775d"
+          }
+        },
+        {
+          "client_id": "76115072993-uhj8mcn0bgf3fak81h0diqipq60883to.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAh2Xvw3v5QP4h5pLQ5jSJEBMQEI_49MJE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "76115072993-uhj8mcn0bgf3fak81h0diqipq60883to.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:76115072993:android:9c34218cc700ac9ebee4a0",
+        "android_client_info": {
+          "package_name": "com.example.firebasetemplate2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "76115072993-uhj8mcn0bgf3fak81h0diqipq60883to.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAh2Xvw3v5QP4h5pLQ5jSJEBMQEI_49MJE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "76115072993-uhj8mcn0bgf3fak81h0diqipq60883to.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
